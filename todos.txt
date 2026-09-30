@@ -1,0 +1,4 @@
+- datei anlegen
+- git add
+- git commit
+- commit message
